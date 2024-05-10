@@ -1,0 +1,6 @@
+crewai
+faiss-cpu
+# python-dotenv
+# langchain-community
+# langchain-openai
+# langchain-core
